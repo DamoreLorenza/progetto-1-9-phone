@@ -1,0 +1,237 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,600;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;600&display=swap');
+
+h1, h2, h3, h4, h5, p, br,em {
+    
+    font-family: 'Montserrat', sans-serif;}
+
+ /* qui css del headed */   
+
+.logo{
+    background-color: black;
+text-align: center;
+padding-top: 2em;
+padding-bottom: 2em;
+}
+.logodue{
+     width: 150px;
+}
+
+.sfondo{
+    background-image: url(/images/banner.jpg);
+    background-position: 100%;
+  background-size: contain;
+  padding-top: 3em;
+  padding-bottom: 1em;
+}
+
+header h1{
+    text-align: center;
+    font-size: 45px;
+    color: #23a9cc;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+    
+}
+
+.pheader{
+    margin-bottom: 1em;
+}
+header p{
+    text-align: center;    
+    line-height: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+header button{
+    background-color:#fd4523 ;
+    color: white;
+    padding: 1em;
+    margin-bottom: 2em;
+    text-align: center;
+    border: none;
+    border-radius: 10%;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+.parent{
+    text-align: center;
+}
+
+/* qui inizia il main */
+
+.primohdue{
+    color: #23a9cc;
+    text-align: center;
+    font-weight: bolder;
+    padding: 0.5em;
+    padding-top: 3em;
+    font-weight: bolder;
+    
+}
+.sechdue{
+    color: #23a9cc;
+    text-align: center;
+    font-weight: bolder;
+    padding: 0.5em;
+    font-weight: bolder;
+}
+.terzohdue{
+    color: #23a9cc;
+    text-align: center;
+    font-weight: bolder;
+    padding: 0.5em;
+    font-weight: bolder;
+}
+.quartohdue{
+    color: #23a9cc;
+    text-align: center;
+    font-weight: bolder;
+    padding: 0.5em;
+    font-weight: bolder;
+}
+
+main p{
+    text-align: center;
+line-height: 1em;
+padding: 0.2em;
+border: 0.5em;
+margin: 0.5em;
+margin-right: 3em;
+margin-left: 3em;
+line-height: 2;
+
+}
+.xx{
+    margin-bottom: 3em;
+}
+
+.fotouno{
+    background-position: 100%;
+  background-size: contain;
+  padding-top: 3em;
+  padding-bottom: 1em;
+  padding-left: 3.5em;
+}
+
+main img{
+    border-radius: 50%;
+    background-position: 100%;
+    background-size: contain;
+    width: 350px;
+   text-align: center;
+}
+
+/* qui inizia article */
+
+.box{
+    width: auto;
+    height: 350px;
+background-color: #dc3410;
+
+}
+
+article h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    
+}
+
+article p{
+    text-align: center;
+    color: white;
+    margin-left: 1em;
+    margin-bottom: 2em;
+    font-style: italic;
+    margin-right: 1em;
+    font-weight: bolder;
+    
+}
+
+article h3{
+    text-align: center;
+    color: white;
+    margin-bottom: 0.5em;
+}
+
+article h4{
+    text-align: center;
+    color: white;
+    font-size: xx-small;
+}
+
+/* qui inizia la section */
+
+ section img{ 
+    width: 400px;
+    margin-left: 2em;
+    margin-top: 4em; ;
+    margin-bottom: none;
+}
+
+section h2{
+    text-align: center;
+    font-weight: bolder;
+    color: #23a9cc;
+}
+
+section p{
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.boxdue{
+    margin-left: 2em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    margin-right: 2em;
+    border-top: 3em;
+    background-color: whitesmoke;
+    margin: whitesmoke ;
+    
+}
+
+/* sec */
+
+/* footer */
+.foot{
+    background-color: #23a9cc;
+}
+ 
+footer h1{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size:40px;
+    padding-bottom: 0.5em;
+    padding-top: 2em;
+}
+
+footer h4{
+    text-align: center;
+    padding: 0.5em;
+    color: white;
+}
+
+hr{color: white;
+   width: 35%; 
+}
+.hr{
+    padding-top: 2em;
+}
+
+footer h5{
+    text-align: center;
+color: white;
+padding-bottom: 3em;
+padding-top: 2em;
+}
